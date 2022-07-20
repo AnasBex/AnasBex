@@ -1,3 +1,4 @@
+const url = require("../routes/base-url");
 const AxiosService = require("../helpers/axiosService");
 const router = require("express").Router();
 const cheerio = require("cheerio");
