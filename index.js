@@ -19,7 +19,7 @@ app.use("/", (req, res) => {
   res.send({
     status: true,
     message:
-      "Welcome to Anime Api by@anasbex_"
+      'Welcome to Anime Api by@anasbex_'
   });
 });
 
