@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=AnasBex&show_icons=true&theme=radical)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnasBex&repo=AnimloversV3-App&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnasBex&repo=8bit-network&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=AnasBex&repo=PlayerEmbedPHP&theme=nightowl)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasBex&layout=compact&theme=nightowl)
 
