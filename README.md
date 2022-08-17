@@ -9,4 +9,4 @@
 <a href="https://www.facebook.com/anas.bex.3/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 
-## Mending Turu:v <img src="https://user-images.githubusercontent.com/68462743/87853613-bbd57680-c935-11ea-86ce-6d8cdcd13d89.gif" width"100%"></h1>
+## Mending Turu:v <img src="https://user-images.githubusercontent.com/68462743/87853613-bbd57680-c935-11ea-86ce-6d8cdcd13d89.gif" width"100%">
